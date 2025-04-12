@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarak Md Shabbir</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarak6984&label=Profile%20views&color=0e75b6&style=flat" alt="tarak6984" /> </p>
-
 
 - 👨‍💻 All of my projects are available at [https://3d-portfolio-website-roan.vercel.app/](https://3d-portfolio-website-roan.vercel.app/)
 
