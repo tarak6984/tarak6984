@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding Animation" width="150">
+  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding Animation" width="120">
 </div>
 
 
