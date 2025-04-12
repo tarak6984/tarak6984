@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarak6984&label=Profile%20views&color=0e75b6&style=flat" alt="tarak6984" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarak6984" alt="tarak6984" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://3d-portfolio-website-roan.vercel.app/](https://3d-portfolio-website-roan.vercel.app/)
 
