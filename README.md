@@ -12,15 +12,14 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/tarak-md-shabbir-5b7b451b9/](https://www.linkedin.com/in/tarak-md-shabbir-5b7b451b9/)
 
 - ⚡ Fun fact:  
-  **🧠 I treat coding challenges like boss fights — I don’t stop until I win.**  
+  **🧠 I treat coding challenges like boss fights, I don’t stop until I win.**  
   **🏃‍♂️ I do push-ups and sit-ups like they're my debugging ritual.**  
   **📚 I'm in a serious relationship... with JavaScript. Don’t tell Python.**  
   **🌙 I used to binge-watch movies at night... now I binge VS Code instead.**  
-  **💡 I think clearer after a jog — running might be my actual debugger.**  
-  **✈️ I dream of interning at Google in Seoul or Sydney. Big goals? Always.**  
+  **💡 I think clearer after a jog , running might be my actual debugger.**  
   **🛠️ I’m building my future, one commit at a time.**  
-  **🍜 I code better with snacks — especially noodles. Fight me.**  
-  **🚧 Consistency is my secret weapon — and my biggest challenge.**  
+  **🍜 I code better with snacks especially noodles. Fight me.**  
+  **🚧 Consistency is my secret weapon and my biggest challenge.**  
   
 
 
