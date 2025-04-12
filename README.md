@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tarak Md Shabbir</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
- ![Coding Animation](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
+
+<!-- Embed GIF below the text -->
+<div align="center">
+  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding Animation">
+</div>
 
 
 - 👨‍💻 All of my projects are available at [https://3d-portfolio-website-roan.vercel.app/](https://3d-portfolio-website-roan.vercel.app/)
