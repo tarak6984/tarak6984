@@ -6,6 +6,12 @@
 </div>
 
 
+## 🌟 About Me
+- 🖥️ **Developer** with a love for open-source and solving real-world problems.
+- 📚 Constant learner exploring the vast world of technology.
+- 🌍 Always looking to collaborate and contribute to exciting projects.
+  
+
 - 👨‍💻 All of my projects are available at [https://3d-portfolio-website-roan.vercel.app/](https://3d-portfolio-website-roan.vercel.app/)
 
 - 📫 How to reach me **tareksabbir20@gmail.com**
