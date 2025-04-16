@@ -57,8 +57,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarak6984&show_icons=true&locale=en&layout=compact" alt="tarak6984" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarak6984&show_icons=true&locale=en" alt="tarak6984" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarak6984&" alt="tarak6984" /></p>
