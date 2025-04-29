@@ -53,8 +53,3 @@
 
 
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarak6984&" alt="tarak6984" /></p>
