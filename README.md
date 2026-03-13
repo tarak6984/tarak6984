@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarak Md Shabbir</h1>
-<h3 align="center"> Full Stack Developer | Software Engineer| ML Engineer</h3>
+<h3 align="center"> Full-Stack Software Engineer | Web Platforms & Marketing Systems | Lead Gate Media Gmbh</h3>
 
 <div align="center">
   <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding Animation" width="120">
@@ -7,26 +7,27 @@
 
 
 ## 🌟 About Me
-- 🖥️ **Developer** with a love for open-source and solving real-world problems.
-- 📚 Constant learner exploring the vast world of technology.
-- 🌍 Always looking to collaborate and contribute to exciting projects.
-  
+## Lead Gate Media — Engineering Role
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-website-roan.vercel.app/](https://3d-portfolio-website-roan.vercel.app/)
+At **Lead Gate Media**, I engineer the technical infrastructure behind high-performance lead generation and marketing platforms operating across **insurance, finance, and home services** verticals.
 
-- 📫 How to reach me **tareksabbir20@gmail.com**
+My work focuses on designing and maintaining **scalable full-stack systems** that handle large volumes of traffic, **real-time lead routing**, and complex **marketing attribution workflows**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tarak-md-shabbir-5b7b451b9/](https://www.linkedin.com/in/tarak-md-shabbir-5b7b451b9/)
+The platforms I build support **multi-step conversion funnels**, high-throughput **form ingestion**, **call-tracking integrations**, and **performance data pipelines** used to optimize campaign efficiency and partner distribution.
 
-- ⚡ Fun fact:  
-  **🧠 I treat coding challenges like boss fights, I don’t stop until I win.**  
-  **🏃‍♂️ I do push-ups and sit-ups like they're my debugging ritual.**  
-  **📚 I'm in a serious relationship... with JavaScript. Don’t tell Python.**  
-  **🌙 I used to binge-watch movies at night... now I binge VS Code instead.**  
-  **💡 I think clearer after a jog , running might be my actual debugger.**  
-  **🛠️ I’m building my future, one commit at a time.**  
-  **🍜 I code better with snacks especially noodles. Fight me.**  
-  **🚧 Consistency is my secret weapon and my biggest challenge.**  
+### Key Engineering Areas
+
+- Architecting **modular full-stack web applications** powering lead generation SaaS platforms  
+- Building **event-driven data flows** for user interactions, form submissions, and call attribution  
+- Developing **backend services and APIs** that orchestrate lead routing, buyer distribution, and tracking integrations  
+- Implementing **advanced tracking systems** for marketing attribution, funnel analytics, and conversion optimization  
+- Optimizing **frontend performance and UX responsiveness** across high-traffic landing pages and marketing funnels  
+- Integrating **third-party marketing platforms**, analytics services, and call-tracking infrastructure  
+- Maintaining **scalable backend systems** capable of supporting performance marketing campaigns across multiple traffic sources  
+
+### Objective
+
+The core objective of the engineering stack is to deliver **reliable, high-performance infrastructure** that powers **data-driven customer acquisition systems** and **scalable lead distribution networks**.
   
 
 
